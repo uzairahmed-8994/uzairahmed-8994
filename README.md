@@ -1,16 +1,48 @@
-## Hi there 👋
+# Uzair Ahmed
 
-<!--
-**uzairahmed-8994/uzairahmed-8994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud & DevOps Engineer | AWS | Terraform | Docker | Linux
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+Cloud Engineer focused on production infrastructure, troubleshooting, and scalable cloud architecture.
+
+Currently working on:
+
+- Linux Troubleshooting Scenarios
+- Docker Production Patterns
+- AWS Architecture Labs
+- Terraform Infrastructure Design
+
+---
+
+## Cloud & DevOps Stack
+
+AWS  
+Docker  
+Kubernetes  
+Terraform  
+Linux  
+GitHub Actions  
+Python  
+
+---
+
+## Engineering Focus
+
+- Cloud Architecture
+- Infrastructure as Code
+- Production Troubleshooting
+- Containerization
+- Automation
+
+---
+
+## Featured Projects
+
+Coming Soon
+
+- docker-production-patterns
+- linux-troubleshooting-scenarios
+- aws-architecture-patterns

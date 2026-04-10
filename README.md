@@ -21,11 +21,11 @@ Currently working on:
 
 ### AWS Certified Solutions Architect – Associate
 
-<img src="assets/aws-saa.png" width="350"/>
+<img src="assets/aws-saa.png" width="150"/>
 
 ### AWS Certified Developer – Associate
 
-<img src="assets/aws-developer.png" width="350"/>
+<img src="assets/aws-developer.png" width="150"/>
 
 ---
 

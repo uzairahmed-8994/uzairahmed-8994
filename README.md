@@ -19,11 +19,13 @@ Currently working on:
 
 ## 🏆 Certifications
 
-![AWS Solutions Architect](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-orange?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS Developer](https://img.shields.io/badge/AWS-Developer_Associate-orange?style=for-the-badge&logo=amazonaws&logoColor=white)
+### AWS Certified Solutions Architect – Associate
 
-- AWS Certified Solutions Architect – Associate  
-- AWS Certified Developer – Associate
+<img src="assets/aws-saa.png" width="350"/>
+
+### AWS Certified Developer – Associate
+
+<img src="assets/aws-developer.png" width="350"/>
 
 ---
 

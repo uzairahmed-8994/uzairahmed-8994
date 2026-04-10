@@ -19,14 +19,9 @@ Currently working on:
 
 ## 🏆 Certifications
 
-### AWS Certified Solutions Architect – Associate
-
-<img src="assets/aws-saa.png" width="150"/>
-
-### AWS Certified Developer – Associate
-
-<img src="assets/aws-developer.png" width="150"/>
-
+| AWS Solutions Architect Associate | AWS Developer Associate |
+|----------------------------------|--------------------------|
+| <img src="assets/aws-saa.png" width="150"/> | <img src="assets/aws-developer.png" width="150"/> |
 ---
 
 ## ☁️ Tech Stack

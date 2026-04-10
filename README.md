@@ -21,17 +21,19 @@ Currently working on:
 
 | AWS Solutions Architect Associate | AWS Developer Associate |
 |:---------------------------------:|:-----------------------:|
-| <img src="assets/aws-saa.png" width="150"/> | <img src="assets/aws-developer.png" width="150"/> |
+| <img src="assets/aws-saa.png" width="100"/> | <img src="assets/aws-developer.png" width="100"/> |
 ---
 
 ## ☁️ Tech Stack
 
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?style=for-the-badge&logo=terraform&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-System-black?style=for-the-badge&logo=linux&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Version_Control-black?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
+<img src="assets/icons/aws.png" width="55"/> &nbsp;&nbsp;&nbsp;
+<img src="assets/icons/docker.png" width="55"/> &nbsp;&nbsp;&nbsp;
+<img src="assets/icons/kubernetes.png" width="55"/> &nbsp;&nbsp;&nbsp;
+<img src="assets/icons/terraform.png" width="55"/> &nbsp;&nbsp;&nbsp;
+<img src="assets/icons/linux.png" width="55"/> &nbsp;&nbsp;&nbsp;
+<img src="assets/icons/github.png" width="55"/>
+</p>
 
 ---
 

@@ -12,14 +12,16 @@ AWS Cloud & DevOps Engineer | AWS Certified | Docker | Kubernetes | Terraform | 
 **Cloud & DevOps Engineer — INIT Global**  
 2+ years designing and operating production-grade AWS infrastructure for customer workloads.
 
-Experience includes:
+Key Contributions:
 
-- AWS Architecture & Multi-AZ Infrastructure
-- Kubernetes (EKS) Production Deployments
-- Terraform Infrastructure as Code
-- CI/CD Pipelines (CodePipeline, CodeBuild, GitHub)
-- Docker Containerization & Deployments
-- Cost Optimization & Cloud Troubleshooting
+- Designed Kubernetes-based application platforms with reusable infrastructure and deployment pipelines
+- Built configuration-driven CI/CD frameworks enabling rapid onboarding of new services
+- Designed and deployed multi-tier application architectures for startup environments
+- Implemented serverless architectures using managed AWS services for scalable applications
+- Conducted deep cloud cost optimization reviews and architecture improvements
+- Designed scalable asynchronous processing architectures using queue-based systems
+- Led and attained internal GenAI competency initiative including documentation, requirements, and cross-team coordination
+- Troubleshot complex production issues across cloud infrastructure and deployments
 
 
 ## Certifications

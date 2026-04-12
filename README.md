@@ -1,27 +1,33 @@
-# Hi, I'm Uzair Ahmed 👋
+<p align="center">
+<img src="assets/banner.png" width="100%"/>
+</p>
 
-Cloud & DevOps Engineer | AWS | Docker | Kubernetes | Terraform | Linux
+# Uzair Ahmed
+
+AWS Cloud & DevOps Engineer | AWS Certified | Docker | Kubernetes | Terraform | Linux
 
 ---
 
-## 🚀 About Me
+# 🏢 Experience
 
-Cloud Engineer focused on building production-grade infrastructure, troubleshooting systems, and designing scalable cloud architectures.
+**Cloud & DevOps Engineer — INIT Global**  
+2+ years designing and operating production-grade AWS infrastructure for customer workloads.
 
-Currently working on:
+Experience includes:
 
-- Linux Troubleshooting Scenarios
-- Docker Production Patterns
-- AWS Architecture Labs
-- Kubernetes Learning Path
+- AWS Architecture & Multi-AZ Infrastructure
+- Kubernetes (EKS) Production Deployments
+- Terraform Infrastructure as Code
+- CI/CD Pipelines (CodePipeline, CodeBuild, GitHub)
+- Docker Containerization & Deployments
+- Cost Optimization & Cloud Troubleshooting
 
 ---
 
 ## 🏆 Certifications
 
-| AWS Solutions Architect Associate | AWS Developer Associate |
-|:---------------------------------:|:-----------------------:|
-| <img src="assets/aws-saa.png" width="100"/> | <img src="assets/aws-developer.png" width="100"/> |
+<img src="assets/aws-saa.png" width="80"/> &nbsp;&nbsp;
+<img src="assets/aws-developer.png" width="80"/>
 ---
 
 ## ☁️ Tech Stack
@@ -47,26 +53,6 @@ Currently working on:
 - Scalable Cloud Systems
 
 ---
-
-## 📂 Featured Projects
-
-Coming Soon
-
-- linux-troubleshooting-scenarios
-- docker-production-patterns
-- aws-architecture-patterns
-- kubernetes-labs
-- terraform-production-modules
-
----
-
-## 🎯 2025 Goals
-
-- AWS SysOps Associate
-- Docker Production Skills
-- Kubernetes Production Skills
-- Advanced Linux Troubleshooting
-- Terraform Production Infrastructure
 
 ---
 

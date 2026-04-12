@@ -8,7 +8,7 @@ AWS Cloud & DevOps Engineer | AWS Certified | Docker | Kubernetes | Terraform | 
 
 ---
 
-# 🏢 Experience
+# Experience
 
 **Cloud & DevOps Engineer — INIT Global**  
 2+ years designing and operating production-grade AWS infrastructure for customer workloads.
@@ -24,15 +24,15 @@ Experience includes:
 
 ---
 
-## 🏆 Certifications
+## Certifications
 
 <img src="assets/aws-saa.png" width="80"/> &nbsp;&nbsp;
 <img src="assets/aws-developer.png" width="80"/>
 ---
 
-## ☁️ Tech Stack
+## Tech Stack
 
-<p align="center">
+<p align="left">
 <img src="assets/icons/aws.png" width="55"/> &nbsp;&nbsp;&nbsp;
 <img src="assets/icons/docker.png" width="55"/> &nbsp;&nbsp;&nbsp;
 <img src="assets/icons/kubernetes.png" width="55"/> &nbsp;&nbsp;&nbsp;
@@ -43,7 +43,7 @@ Experience includes:
 
 ---
 
-## 🧠 Engineering Focus
+## Engineering Focus
 
 - Cloud Architecture
 - Infrastructure as Code
@@ -53,9 +53,3 @@ Experience includes:
 - Scalable Cloud Systems
 
 ---
-
----
-
-## 📫 Connect
-
-LinkedIn (Coming Soon)

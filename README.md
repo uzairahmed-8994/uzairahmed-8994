@@ -6,7 +6,6 @@
 
 AWS Cloud & DevOps Engineer | AWS Certified | Docker | Kubernetes | Terraform | Linux
 
----
 
 # Experience
 
@@ -22,13 +21,12 @@ Experience includes:
 - Docker Containerization & Deployments
 - Cost Optimization & Cloud Troubleshooting
 
----
 
 ## Certifications
 
 <img src="assets/aws-saa.png" width="80"/> &nbsp;&nbsp;
 <img src="assets/aws-developer.png" width="80"/>
----
+
 
 ## Tech Stack
 
@@ -41,7 +39,6 @@ Experience includes:
 <img src="assets/icons/github.png" width="55"/>
 </p>
 
----
 
 ## Engineering Focus
 
@@ -52,4 +49,4 @@ Experience includes:
 - DevOps Automation
 - Scalable Cloud Systems
 
----
+
